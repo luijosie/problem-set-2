@@ -1,0 +1,18 @@
+---
+title: "CMAP HW2"
+author: "Wai Laam (Josie) Lui"
+date: "11/8/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("~/iCloud/CourseWork/josie-19-aut/problem-set-2/")
+rm(list=ls())
+```
+
+# Loading Packages
+```{r preamb, message=FALSE,warning=FALSE}
+library(tidyverse)
+```
+
